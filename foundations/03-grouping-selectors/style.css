@@ -1,0 +1,15 @@
+.st1{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+
+.st2{
+    background-color: hsl(60, 79%, 48%);
+}
+
+.st1, .st2{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+
+}
